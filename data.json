@@ -1,0 +1,30 @@
+[
+    {
+        "product_name": "Dell Inspiron 15",
+        "product_price": "₱45,000",
+        "product_description": "Powerful and reliable laptop, perfect for work and entertainment.",
+        "product_date_added": "2024-02-12",
+        "expiration_date": "2024-02-19"
+    },
+    {
+        "product_name": "HP Pavilion x360",
+        "product_price": "₱55,000",
+        "product_description": "Versatile 2-in-1 laptop with touchscreen, ideal for productivity and creativity.",
+        "product_date_added": "2024-02-12",
+        "expiration_date": "2024-02-19"
+    },
+    {
+        "product_name": "Asus ROG Zephyrus G14",
+        "product_price": "₱75,000",
+        "product_description": "High-performance gaming laptop with compact design and long battery life.",
+        "product_date_added": "2024-02-12",
+        "expiration_date": "2024-02-19"
+    },
+    {
+        "product_name": "MacBook Air M1",
+        "product_price": "₱80,000",
+        "product_description": "Ultra-thin and lightweight laptop with Apple's M1 chip for exceptional performance and battery life.",
+        "product_date_added": "2024-02-12",
+        "expiration_date": "2024-02-19"
+    }
+]
